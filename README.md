@@ -1,4 +1,4 @@
-# Introduction to Cloud computing
+# Cloud computing
 
 ## Introduction
 

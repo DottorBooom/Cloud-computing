@@ -1,5 +1,10 @@
 # Cloud computing
 
+## Index
+
++ [Intro to course](#intro-to-course)
++ [Introduction to cloud computing](#introduction-to-cloud-computing)
+
 ## Introduction
 
 + As written in the description, this course will only be an introduction, as I will not take part in the advanced course.
@@ -33,11 +38,6 @@
 + Learning is a **process**, not a result
 + Nobody is perfect or always right: **errors and mistake are natural**
 + **Learning is a process in our personal brain**, not in other's one. **Clash with your limits** before check the solutionù
-
-## Index
-
-+ [Intro to course](#intro-to-course)
-+ [Introduction to cloud computing](#introduction-to-cloud-computing)
 
 ## Intro to course
 

@@ -56,4 +56,4 @@ Definition of computing and historical overview of how from distributed computin
 + GRID computing 
 + Utility computing
 
-Slides are available [here](Cloud-computing/Lecture_1/)
+Slides are available [here](Lecture_1/)

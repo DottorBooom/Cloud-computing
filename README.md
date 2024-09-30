@@ -43,6 +43,8 @@
 
 A simple introduction with what you have to expect from this course. Everything written above is a summary of the lesson.
 
+Slides are available [here](Cloud-computing/Lecture_0/)
+
 ## Introduction to cloud computing
 
 Some more detailed information about the course and what to expect, including recommended books. 
@@ -53,3 +55,5 @@ Definition of computing and historical overview of how from distributed computin
 + High throughput (capacity) applications and usage
 + GRID computing 
 + Utility computing
+
+Slides are available [here](Cloud-computing/Lecture_1/)

@@ -37,7 +37,7 @@
 + Main pourpose it to **learn**, not to grade
 + Learning is a **process**, not a result
 + Nobody is perfect or always right: **errors and mistake are natural**
-+ **Learning is a process in our personal brain**, not in other's one. **Clash with your limits** before check the solutionù
++ **Learning is a process in our personal brain**, not in other's one. **Clash with your limits** before check the solution
 
 ## Intro to course
 

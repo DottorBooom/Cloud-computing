@@ -41,4 +41,15 @@
 
 ## Intro to course
 
+A simple introduction with what you have to expect from this course. Everything written above is a summary of the lesson.
+
 ## Introduction to cloud computing
+
+Some more detailed information about the course and what to expect, including recommended books. 
+Definition of computing and historical overview of how from distributed computing we arrived at cloud computing.
+
++ Distributed computing architectures and applications
++ Cluster computing 
++ High throughput (capacity) applications and usage
++ GRID computing 
++ Utility computing

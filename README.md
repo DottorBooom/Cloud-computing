@@ -43,7 +43,7 @@
 
 A simple introduction with what you have to expect from this course. Everything written above is a summary of the lesson.
 
-Slides are available [here](Cloud-computing/Lecture_0/)
+Slides are available [here](Lecture_0/)
 
 ## Introduction to cloud computing
 

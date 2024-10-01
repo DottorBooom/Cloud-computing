@@ -4,6 +4,7 @@
 
 + [Intro to course](#intro-to-course)
 + [Introduction to cloud computing](#introduction-to-cloud-computing)
++ [Master's index](https://github.com/DottorBooom/Master-in-Data-Science-and-Artificial-Intelligence) 
 
 ## Introduction
 

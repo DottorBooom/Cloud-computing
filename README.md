@@ -44,7 +44,7 @@
 
 A simple introduction with what you have to expect from this course. Everything written above is a summary of the lesson.
 
-Slides are available [here](Lecture_0/)
+Slides are available [here](Lectures/Lecture_0/)
 
 ## Introduction to cloud computing
 
@@ -57,4 +57,4 @@ Definition of computing and historical overview of how from distributed computin
 + GRID computing 
 + Utility computing
 
-Slides are available [here](Lecture_1/)
+Slides are available [here](Lectures/Lecture_1/)

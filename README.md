@@ -4,6 +4,9 @@
 
 + [Intro to course](#intro-to-course)
 + [Introduction to cloud computing](#introduction-to-cloud-computing)
++ [Cloud main concepts](#cloud-main-concepts)
++ [Virtualization](#virtualization)
++ [Benchmark](#benchmark)
 + [Master's index](https://github.com/DottorBooom/Master-in-Data-Science-and-Artificial-Intelligence) 
 
 ## Introduction
@@ -58,3 +61,37 @@ Definition of computing and historical overview of how from distributed computin
 + Utility computing
 
 Slides are available [here](Lectures/Lecture_1/)
+
+## Cloud main concepts
+
+What is a cloud and what is cloud computing, main concept around the cloud idea, advantage and disadvantage and the cloud architecture.
+
++ Cloud computing
++ Service attribute, horizontal and vertical scaling
++ Cloud models and architecture
++ What I need for building a cloud
++ Advantage and disadvantage
+
+Slides are available [here](Lectures/Lecture_2/)
+
+## Virtualization
+
+And introduction on what is a virtualization and how it works, Why it was created and why and different approch to virtualization.
+The first lab is introduced, where the user have to create a cloud infrastructure made by 3 (or more) VMs that work in an internal network.
+
++ What is and why it was made
++ How it works and different method
++ What we need to virtualize and how it's menaged by the host
++ The network implementation
+
+Slides and lab are available [here](Lectures/Lecture_3/)
+
+## Benchmark
+
+During the lecture is explained what is a benchmark and why should I use it, what are the main components to address performances. Different tools have been recommended for each component and how to analyze the results obtained.
+
++ Why benchmarking and on which components
++ How to test every main part and how to analyze the results
+
+Slides are available [here](Lectures/Lecture_4/)
+

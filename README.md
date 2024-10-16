@@ -17,6 +17,8 @@
 + The final exam will consist of a project assigned by the professor and a written exam.
 + This exam will be the first of the two modules that make up the entire course, the second is called "High performance computing". As soon as I will start it I will put a link in this read.me but you can also find it on my profile.
 
+The professor have is own repository of the course [here](https://github.com/Foundations-of-HPC/Cloud-basic-2024/tree/main)
+
 ### What you will learn
 
 **In this course will be introfuceed the basic concepts of cloud computing** 

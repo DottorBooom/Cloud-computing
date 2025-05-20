@@ -7,6 +7,9 @@
 + [Cloud main concepts](#cloud-main-concepts)
 + [Virtualization](#virtualization)
 + [Benchmark](#benchmark)
++ [Container](#container)
++ [Kubernetes](#kubernetes)
++ [Data cloud and cloud security](#data-cloud-and-cloud-security)
 + [Master's index](https://github.com/DottorBooom/Master-in-Data-Science-and-Artificial-Intelligence) 
 
 ## Introduction
@@ -78,7 +81,7 @@ Slides are available [here](Lectures/Lecture_2/)
 
 ## Virtualization
 
-And introduction on what is a virtualization and how it works, Why it was created and why and different approch to virtualization.
+And introduction on what is a virtualization and how it works, why it was created and different approch to virtualization.
 The first lab is introduced, where the user have to create a cloud infrastructure made by 3 (or more) VMs that work in an internal network.
 
 + What is and why it was made
@@ -97,3 +100,36 @@ During the lecture is explained what is a benchmark and why should I use it, wha
 
 Slides are available [here](Lectures/Lecture_4/)
 
+## Container
+
+And introduction on what is a container and how it works, Why it was created and what is different fromt virtualization.
+
++ What is a container and the difference with VMs
++ Some proprerties and other aspect
++ In-depth anaylis of the structure
++ Some code and example on how to implement it
+
+Slides are available [here](Lectures/Lecture_5/)
+
+## Kubernetes
+
+What are kubernetes and what are the differences with containers.
+
++ Introduction to kubernetes
++ What they can provide and what not
++ In-depth analysis of the components, and what each one does
+
+Slides are available [here](Lectures/Lecture_6/)
+
+## Data cloud and cloud security
+
+How data cloud system works and how they keep the data protected.
+
++ Different types od data structure and which whan do what
++ The GFS and the object storage
++ The importance of meta data
++ The architecture behind it
++ Introduction to cloud security and some considerations
++ Different level of security and how to deal with each one
+
+Slides are available [here](Lectures/Lecture_7/)
